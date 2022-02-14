@@ -1,0 +1,20 @@
+Geodemographic Segmentation Model:  Predicting the Customer Churn Rate for a Bank
+
+The dataset consists of various customer related features collected by the bank over certain period of time.
+The features are as follows:
+1. Row Number
+2. Customer ID
+3. Surname
+4. Credit Score
+5. Geography
+6. Gender
+7. Age
+8. Tenure
+9. Balance
+10. Number of Products
+11. Has Credit Card
+12. Is Active Member
+13. Estimated Salary
+14. Exited
+
+Task: To predict the binary variable (customer exits? -Yes/No) based on the correlations between different features of a customer.
