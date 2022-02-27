@@ -1,0 +1,22 @@
+Source 
+IEEE Dataport
+https://ieee-dataport.org/documents/tennessee-eastman-simulation-dataset
+
+Tennessee Eastman Simulation Dataset
+
+
+Data Set Information
+
+ABSTRACT 
+Tenessee Eastman (TE) process simulates actual chemical processes and is widely used as a benchmark in test fault diagnosis and process control. 
+The overall process consists of five operating units: reactor, condenser, vapor-liquid separator, recycle compressor and product stripper. 
+It has standard training and test data sets for fault detection and diagnosis, classification, etc. 
+Each data set is under different operating conditions.
+
+Instructions: 
+Based on the actual chemical reaction process, 
+Eastman Chemical Company of the United States developed the open and challenging chemical model simulation platform - Tennessee Eastman (TE) simulation platform, 
+which produces data with time-varying, strong coupling and nonlinear characteristics, widely used in Test control and fault diagnosis models for complex industrial processes. 
+The entire TE data set consists of a training set and a test set. 
+The data in the TE set consists of 22 different simulation run data, and each sample in the TE set has 52 observed variables. 
+d00.dat to d21.dat are training set samples, and d00_te.dat to d21_te.dat are test set samples.

@@ -1,0 +1,13 @@
+The dataset consists of stock price details of Google over 5 years- 2012-2016
+
+Atttributes:
+1.Date
+2.Open -  opening stock price
+3.High - peak stock price
+4.Low - bottom stock price
+5.Close - closing stock price
+6.Volume
+
+A Time Series analysis model has to be trained on this data to learn the variations in trends.
+
+It is then to be tested to predicted the 'Open' stock price trend for the month of January in 2017.

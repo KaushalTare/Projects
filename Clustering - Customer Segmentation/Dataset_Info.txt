@@ -1,0 +1,17 @@
+The dataset consists of customer information collected from a Mall.
+
+The task is to find patterns in this data to create a variable class.
+
+Attributes:
+1.Customer_ID
+2.Genre
+3.Age
+4.Annual Income
+5.Spending Score (Indicator of how much a customer spends)
+
+The 'Annual Income' and 'Spending Score' attributes are to be selected as key indicators.
+The values of this class will be the segments of customers.
+
+The model has to find the optimal number of segments, train and then predict the class.
+
+Segmenting customers in different categories allows to make useful business decisions.

@@ -1,0 +1,13 @@
+The dataset is a '.tsv' file containing the feedback from the customers of a restaurant.
+
+Attributes:
+
+"Feedback Text"	<< Tab >?	Implication/Conclusion
+
+The implication of feedback is given by-
+ 
+0 - not liked/negative review
+1 - liked/positive review
+
+Model needs to learn, predict and classify the reviews into positive and negative,
+to analyze the functioning of restaurant and thus help in making useful business decisions.
